@@ -1,5 +1,5 @@
 # Week 3 — CSS Basics Practice
-**Student:** Оятилло Сидиков  
+**Student:** Болот кызы Адина
 **Course:** Web & Internet Technologies  
 **Week:** 3
 
